@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAA;EACA,UAAU,ECHN,OAAO;CDId",
+    "sources": [
+        "../scss/styles.scss",
+        "../scss/components/_config.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
