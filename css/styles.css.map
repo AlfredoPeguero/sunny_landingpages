@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,IAAI,CAAA;EACA,UAAU,ECHN,OAAO;CDId",
+    "mappings": "",
     "sources": [
         "../scss/styles.scss",
         "../scss/components/_config.scss"
